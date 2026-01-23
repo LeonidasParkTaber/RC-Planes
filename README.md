@@ -28,6 +28,11 @@ As shown above, I have made planes from a variety of martials and various constr
 
 They all followed a similar prosses, however, so we will use one as an example.
 
+## CAD and Design
+![Image of CAD](Rc_Plane_Project_Pics/CAD_Screenshot)
+
+Many different types of designs were created in CAD. This project served as a sandbox for exploring concepts I learned online, such as KF airfoils, reflexed airfoils, and center of gravity considerations. I also learned how to work with surfaces and curves to make my designs as aerodynamic as possible. In many cases, a single aircraft went through multiple iterations before being manufactured.
+
 
 
 
