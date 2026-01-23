@@ -9,6 +9,7 @@ Applicable Skills:
 - CNC Router Machining
 - Proactive Research
 - Iterative design
+- Soldering
 
 ****
 <div>
@@ -26,12 +27,33 @@ Applicable Skills:
 ****
 As shown above, I have made planes from a variety of martials and various construction methods. The part that I would like to share about, however, is when I began using CAD, CAM, and flight controllers in my planes, as I believe they are most relevant to the work I hope to do as an engineer. 
 
-They all followed a similar prosses, however, so we will use one as an example.
+They all followed a similar prosses, however, so we will use the following 250g flying wing as an example.
 
 ## CAD and Design
-![Image of CAD](Rc_Plane_Project_Pics/CAD_Screenshot)
+<img src="Rc_Plane_Project_Pics/CAD_Screenshot.png" width="500">
 
-Many different types of designs were created in CAD. This project served as a sandbox for exploring concepts I learned online, such as KF airfoils, reflexed airfoils, and center of gravity considerations. I also learned how to work with surfaces and curves to make my designs as aerodynamic as possible. In many cases, a single aircraft went through multiple iterations before being manufactured.
+The CAD side of this RC plane project primarily served as a sandbox for exploring surface modeling in the context of aerodynamics. I used surface modeling techniques to incorporate elements into my CAD designs such as reflexed airfoils, smooth fuselages, and hatches, while keeping center of gravity and manufacturability in mind. In many cases, a single aircraft went through multiple iterations before being manufactured.
+
+
+## CAM and Fabrication
+<img src="Rc_Plane_Project_Pics/CAM_Screenshot.png" width="500">
+
+I used both Easel CNC and, later, Autodesk Fusion 360’s manufacturing workspace to machine the aircraft bodies out of XPS insulation foam. Because both the top and bottom surfaces needed to be machined, indexing pins and corresponding holes in the stock were used to accurately locate and align operations on each side.
+
+## Installing Electronics
+<div>
+  <img src="Rc_Plane_Project_Pics/Electronics.jpg" height="400" style="display:inline-block;">
+  <img src="Rc_Plane_Project_Pics/FPV_plane_assembled.jpg" height="400" style="display:inline-block;">
+
+This aircraft was equipped with a SpeedyBee F405 Wing Mini flight controller running iNav, along with an analog FPV system and ExpressLRS for RC control. Working with this software required a significant amount of self-teaching, and through this process I also learned how to solder.
+
+
+The plane was fitted with an FPV (first-person view) video system, consisting of an onboard camera and transmitter, allowing me to fly using FPV goggles from the aircraft’s point of view.
+
+<img src="Rc_Plane_Project_Pics/Helical_Antenna.GIF" width="500">
+
+Interested in increasing the range of my video system, I experimented with building helical antennas with varying numbers of turns to improve antenna gain. The image shown is a seven-turn helical antenna, which increased my usable range from approximately 2 miles to 3.5 miles. While I did not fully understand the underlying math or theory behind how helical antennas increase gain, this experimentation was one of the most satisfying parts of the project.
+
 
 
 
