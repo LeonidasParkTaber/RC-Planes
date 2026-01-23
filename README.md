@@ -65,10 +65,14 @@ Here is a short video of some video footage of the plane if you are interested i
 
 ## Current Interests: 3D Printing Planes
 
-I recently got access to a 3D printer, so I was interested in 3d printing my designs. To reduce weight and maximize strength in places I need it, I am designing my own infill. 
+I played around with 3d printing designs. To reduce weight and maximize strength in places I need it, I am designing each part to be printed with single walls and internal ribbing.
 
-The plane will be printed from lightweight PLA which is a foaming printing filament. It is incredibly stringy however. To prevent this, each layer is designed to be printed in one uninterrupted line, which is really testing my CAD skills. 
+<img src="Rc_Plane_Project_Pics/3D_printed_plane.png" width="500">
 
+
+The plane will be printed from lightweight PLA which is a foaming printing filament. It is incredibly stringy however. To prevent this, each layer is designed to be printed in one uninterrupted line, which is a significant challenge, yet a fun problem to solve.  
+
+<img src="Rc_Plane_Project_Pics/Helical_Antenna.GIF" width="500">
 
 
 
