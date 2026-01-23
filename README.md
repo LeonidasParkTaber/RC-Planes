@@ -54,8 +54,7 @@ The plane was fitted with an FPV (first-person view) video system, consisting of
 
 <img src="Rc_Plane_Project_Pics/Helical_Antenna.GIF" width="600">
 
-Interested in increasing the range of my video system, I experimented with building helical antennas with varying numbers of turns to improve antenna gain. The image shown is a seven-turn helical antenna, which increased my usable range from approximately 2 miles to 3.5 miles. While I did not fully understand the underlying math or theory behind how helical antennas increase gain, this experimentation was one of the most satisfying parts of the project.
-
+Interested in increasing the range of my video system, I experimented with building helical antennas with varying numbers of turns to improve antenna gain. This antenna increased my usable range from approximately **2 miles to 3.5 miles**. 
 
 Here is a short video of some video footage of the plane if you are interested in viewing: 
 
