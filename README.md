@@ -11,6 +11,8 @@ Applicable Skills:
 - Iterative design
 - Soldering
 
+PICUTRE OF PLANES:
+
 ****
 <div>
   <img src="Rc_Plane_Project_Pics/PIC_1.jpg" height="300" style="display:inline-block;">
@@ -25,7 +27,7 @@ Applicable Skills:
 </div>
 
 ****
-As shown above, I have made planes from a variety of martials and various construction methods. The part that I would like to share about, however, is when I began using CAD, CAM, and flight controllers in my planes, as I believe they are most relevant to the work I hope to do as an engineer. 
+As shown above, I have made planes from a variety of martials and various construction methods. The part that I would like to share about, however, is when I began using CAD, CAM, and flight controllers in my planes, as I believe that prosses is the most relevant to the work I hope to do as an engineer. 
 
 They all followed a similar prosses, however, so we will use the following 250g flying wing as an example.
 
