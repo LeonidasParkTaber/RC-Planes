@@ -57,6 +57,17 @@ The plane was fitted with an FPV (first-person view) video system, consisting of
 Interested in increasing the range of my video system, I experimented with building helical antennas with varying numbers of turns to improve antenna gain. The image shown is a seven-turn helical antenna, which increased my usable range from approximately 2 miles to 3.5 miles. While I did not fully understand the underlying math or theory behind how helical antennas increase gain, this experimentation was one of the most satisfying parts of the project.
 
 
+Here is a short video of some video footage of the plane if you are interested in viewing: 
+
+[Video of plane flying and footage from the POV of the plane: https://youtu.be/CbH9q1GkPZs](https://youtu.be/CbH9q1GkPZs)
+
+
+
+## Current Interests: 3D Printing Planes
+
+I recently got access to a 3D printer, so I was interested in 3d printing my designs. To reduce weight and maximize strength in places I need it, I am designing my own infill. 
+
+The plane will be printed from lightweight PLA which is a foaming printing filament. It is incredibly stringy however. To prevent this, each layer is designed to be printed in one uninterrupted line, which is really testing my CAD skills. 
 
 
 
